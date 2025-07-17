@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "Work Sans", sans-serif;
+}
+
+/* personal Framwok for work flow */
+
+/* Some Common Class  */
+.h1{
+    font-size: 4rem;
+}
+.h2{
+    font-size: 2.8rem;
+}
+.h3{
+    font-size: 1.4rem;
+}
+
+.p1{
+    font-size: 1.2rem;
+}
+.fw-bold{
+    font-weight: 600;
+}
+.fw-bolder{
+    font-weight: 800;
+}
+
+.color-primary{
+    color: #FF900E;
+}
+
+.dark1{
+    color: #131313;
+}
+.dark2{
+    color: #424242;
+}
+.dark3{
+    color: #727272;
+}
+.d-flex{
+    display: flex;
+}
+
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
